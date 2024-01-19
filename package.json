@@ -1,0 +1,18 @@
+{
+    "name":"exampleofcalculator518",
+    "version":"0.1.1",
+    "main":".example2",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/srijayalavarthi254/exampleofcalculator1"
+    },
+    "keywords":[
+        "excal","cal","calculator"
+    ],
+    "dependencies":{},
+    "engines":{
+        "node":"*"
+    }
+
+
+}
